@@ -1,0 +1,17 @@
+{
+  "name": "Pet Communicator",
+  "short_name": "Pet AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c1118",
+  "theme_color": "#10151d",
+  "description": "On-demand AI-assisted behaviour observations for many animal types.",
+  "icons": [
+    {
+      "src": "/static/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
